@@ -12,19 +12,25 @@ Sumeet Batra
 HoloPop  
 
 ## Project Description:  
-
+Our project is to develop a Unity based game that is compatible with Microsoft's HoloLens. Our game will scan and recognize certain items in the room and "pop" during specified times. At the end of each level we will produce a survey that will gather data from our players.
 
 ## Vision Statement:  
-
+Our vision is to supply our users with a fun short gaming experience utilizing each user's immediate enviroment. We will also get data at the end of each game by surveying our users.
 
 ## Project Motivation:  
-
+The motivation behind our project is for team members to learn the Unity engine, to practice the supporting programming languages, and to gain experience with augmented reality using Microsoft's HoloLens.
 
 ## Project Risks:  
 Little to no experience with Unity  
 Difficult to organize meetings  
+Possibly difficult to find information on Unity  
+Access to all the software, includes Microsoft 10 Pro  
+
 
 ## Risk Mitigation:  
+Downloading all software as soon as possible and practicing required languages  
+Frequently communicating via free communication apps  
+Getting in contact with Unity support  
 
 
 ## User Stories (6 Required):  
