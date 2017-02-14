@@ -34,8 +34,8 @@ Getting in contact with Unity support
 
 
 ## User Stories (6 Required):  
-* 001: “As a [role], I want to [do X] so that I can [benefit with Y]”  
-* 002: “As a [role], I want to [do X] so that I can [benefit with Y]”  
+* 001: “As a gamer, I want to see my favorite game characters and objects in my room so that I can bring my favorite games to life”  
+* 002: “As a computer geek, I want to have virtual screens next to my desktop so that I can simultaneously see mulitple tabs without having to buy new monitors or click back and forth between tabs”  
 * 003: “As a [role], I want to [do X] so that I can [benefit with Y]”  
 * 004: “As a [role], I want to [do X] so that I can [benefit with Y]”  
 * 005: “As a [role], I want to [do X] so that I can [benefit with Y]”  
