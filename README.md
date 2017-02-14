@@ -5,7 +5,7 @@ CSCI3308 Group Project
 ## Team Members:  
 Roy De Jesus  
 Tarah Peltz  
-Kenzie Weller  
+McKenzie Weller  
 Sumeet Batra  
 
 ## Project Name:  
@@ -22,7 +22,7 @@ The motivation behind our project is for team members to learn the Unity engine,
 
 ## Project Risks:  
 Little to no experience with Unity  
-Difficult to organize meetings  
+Difficult to organize meetings -- scheduling conflicts
 Possibly difficult to find information on Unity  
 Access to all the software, includes Microsoft 10 Pro  
 
@@ -36,8 +36,8 @@ Getting in contact with Unity support
 ## User Stories (6 Required):  
 * 001: “As a gamer, I want to see my favorite game characters and objects in my room so that I can bring my favorite games to life”  
 * 002: “As a computer geek, I want to have virtual screens next to my desktop so that I can simultaneously see mulitple tabs without having to buy new monitors or click back and forth between tabs”  
-* 003: “As a [role], I want to [do X] so that I can [benefit with Y]”  
-* 004: “As a [role], I want to [do X] so that I can [benefit with Y]”  
+* 003: “As a nature lover, I want to expand the outdoors with animals and plants so that I can still see the beauty of nature even in a city.”  
+* 004: “As an educator, I want to create projections in the classroom so that I can teach students with and about technology.”  
 * 005: “As a [role], I want to [do X] so that I can [benefit with Y]”  
 * 006: “As a [role], I want to [do X] so that I can [benefit with Y]”  
 
