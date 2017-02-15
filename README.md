@@ -42,10 +42,10 @@ Teaching each other about Unity and HoloLens from our own experiences
 
 ## User Stories (6 Required):  
 * 001: “As a gamer, I want to see my favorite game characters and objects in my room so that I can bring my favorite games to life”  
-* 002: “As a computer geek, I want to have virtual screens next to my desktop so that I can simultaneously see mulitple tabs without having to buy new monitors or click back and forth between tabs”  
-* 003: “As a nature lover, I want to expand the outdoors with animals and plants so that I can still see the beauty of nature even in a city.”  
-* 004: “As an educator, I want to create projections in the classroom so that I can teach students with and about technology.”  
-* 005: “As a test engineer, I want to test my team's ideas on young people so that I can see if they would use our product”  
+* 002: “As an artist, I want to see art on my walls everywhere"  
+* 003: “As a parent, I want my child to see a virtual teddy bear whenever she looks at her bed”  
+* 004: “As a security conscious user of this product, I'm ok with companies seeing my demographic information, but I want personal information like my name to be hidden”  
+* 005: “As a test engineer, I want to test my team's new app ideas on young people so that I can see if they like them and may use them”  
 * 006: “As a marketing specialist, I want to learn peoples' opinions on some of my catch phrase ideas so that I can see which one resonates the most with our target audience”  
 
 ## Project Tracking Software:  
