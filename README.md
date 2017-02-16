@@ -48,6 +48,9 @@ Teaching each other about Unity and HoloLens from our own experiences
 * 005: “As a test engineer, I want to test my team's new app ideas on young people so that I can see if they like them and may use them”  
 * 006: “As a marketing specialist, I want to learn peoples' opinions on some of my catch phrase ideas so that I can see which one resonates the most with our target audience”  
 
+## Methodology:
+We will be using an agile development methodology by creating the necessary components in 2-3 week sprints and compiling the components on the Hololens. 
+
 ## Project Tracking Software:  
 https://trello.com/teamholopop
 
