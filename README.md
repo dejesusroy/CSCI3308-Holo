@@ -12,7 +12,7 @@ Sumeet Batra
 HoloPop  
 
 ## Project Description:  
-Our project is to develop a Unity based game that is compatible with Microsoft's HoloLens. Our game will scan and recognize certain items in the room and "pop" during specified times. This project will be used to incentivize individuals to perform certain tasks, such as taking surveys. A corresponding surveying app will be created on Xamarin. As the user completes more activities commonly seen as unpleasant, he or she will unlock more capabilities in the Unity game.
+Our project is to develop a Unity based game that is compatible with Microsoft's HoloLens. Our game will scan and recognize certain physical objects in the room and "pop" up virtual objects associated with those physical objects. In addition, there will be mini-games to play placed around the room. This project will be used to incentivize individuals to perform certain tasks, such as taking surveys. A corresponding surveying app will be created on Xamarin. As the user completes more activities commonly seen as unpleasant, he or she will unlock more capabilities in the Unity game.
 
 ## Vision Statement:  
 Our vision is to supply our users with a fun short gaming experience utilizing each user's immediate enviroment. We will also help companies seeking survey info by creating an incentive system for individuals to participate.
