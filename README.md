@@ -55,4 +55,4 @@ We will be using an agile development methodology by creating the necessary comp
 https://trello.com/teamholopop
 
 ## Project Plan:  
-Created from your Project Tracking software. Copy-paste the plan (or screenshot of) from your project tracking software into the repository.
+Hololens Timeline: https://trello.com/b/8dTTvRFY
