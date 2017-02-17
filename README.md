@@ -55,4 +55,4 @@ We will be using an agile development methodology by creating the necessary comp
 https://trello.com/teamholopop
 
 ## Project Plan:  
-Hololens Timeline: https://trello.com/b/8dTTvRFY
+https://trello.com/teamholopop
