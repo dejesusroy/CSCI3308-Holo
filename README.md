@@ -2,12 +2,14 @@
 University of Colorado:  
 CSCI3308 Group Project
 
-## Team Members:  
-Roy De Jesus  - dejesusroy
-Tarah Peltz  - Tarah-Peltz
-McKenzie Weller  - pikawolfy
-Sumeet Batra  - SumeetBatra
-Kristin Robinson - RobinsonK
+## Team Members: 
+Name|GitHub ID
+---| --- 
+Roy De Jesus | dejesusroy
+Tarah Peltz | Tarah-Peltz
+McKenzie Weller | pikawolfy
+Sumeet Batra | SumeetBatra
+Kristin Robinson | RobinsonK
 
 ## Project Name:  
 HoloPop  
