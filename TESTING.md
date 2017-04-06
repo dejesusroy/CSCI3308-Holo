@@ -27,7 +27,7 @@ For Unity games testing, we use the **Unity Test Tools**, which can be found in 
 In this picture, **Unity Test Tools** is being used to assert whether the ball has collided with the right paddle, and is about to leave the point of contact. This test has helped with physics debugging between the ball and paddle's rigid bodies. As expected, the assertion fails once the ball collides. 
 ![alt_text](RightPaddleColliderAssert.PNG "Automated Test for Collision Debugging")
 
-Here, a custom made assertion script pauses the game and throws an exception when the left paddle leaves the bounds of the game. This test assists in debugging errors with the left paddle leaving the boundaries.
+Here, a custom-made assertion script pauses the game and throws an exception when the left paddle leaves the bounds of the game. This test assists in debugging errors with the left paddle leaving the boundaries.
 ![alt_text](LeftPaddleBoundsAssert.PNG "Automated Test for Upper Bound Checking")
 
 ![alt_text](LeftLowerBoundAssert.PNG "Automated Test for Lower Bound Checking")
