@@ -157,3 +157,91 @@ The app is not differentiating between polls. Other unique factors must be used 
 
 **Post-conditions**  
 Polls display the correct questions every time, regardless of duplicated names.
+
+
+### UAT 5: Control the ball to collect cubes
+**Description**  
+Test that the user can control the ball in Roll-a-Ball to collect cubes
+
+**Pre-conditions**  
+User has PC, can run a .exe application
+
+**Test steps**  
+1. Run RollerBall_PC.exe  
+2. Use the arrow keys to roll the ball
+3. Roll the ball into the cubes to "collect" them  
+
+**Expected result**  
+User can move the ball with arrow keys. When the ball is rolled into a cube, the cube disappears. 
+
+**Actual result**  
+The ball rolls with arrow keys. Cubes disappear upon contact with the ball. A count of collected subes is displayed in the top left.
+
+**Status (Pass/Fail)**  
+Pass
+
+**Notes**  
+Physics could be improved. Ball gains momentum easily - sticky to control. 
+
+**Post-conditions**  
+User collects all the subes to end the game.
+
+
+### UAT 6: Shoot the cue ball
+**Description**  
+Test that the user can shoot the cue ball in the pool game
+
+**Pre-conditions**  
+User can run a .exe application
+
+**Test steps**  
+1. Run UnityPoolCU.exe  
+2. Use the arrow keys to aim the direction of the cue ball
+3. Hold the left mouse button to "pull back" the cue stick
+4. Release the left mouse button to "hit" the cue ball
+
+**Expected result**  
+User can aim the cue ball and apply a "force" with the cue stick depending on how long the left mouse button is held down.
+
+**Actual result**  
+The screen is rotated with the arrow keys to "aim" the ball. Pressing the mouse button simulates pulling back the cue stick. Cue ball moves with different velocity depending on how long the button is pressed.
+
+**Status (Pass/Fail)**  
+Pass
+
+**Notes**  
+Physics could be improved. There is a fine line between the cue ball not moving at all and moving ridiculously fast. There should be a way to cancel if the user wishes to change aim, etc.
+
+**Post-conditions**  
+The cue ball is launched forward and interacts with the rest of the table.
+
+
+### UAT 7: Knock a ball into the pockets
+**Description**  
+Test that the user can knock other balls into the pockets with the cue ball in the pool game
+
+**Pre-conditions**  
+User can run a .exe application
+
+**Test steps**  
+1. Run UnityPoolCU.exe  
+2. Use the arrow keys to aim the direction of the cue ball
+3. Hold the left mouse button to "pull back" the cue stick
+4. Release the left mouse button to "hit" the cue ball toward other balls
+5. Hit the balls toward the pockets
+6. The balls will sink if they collide with the pockets and disappear, gaining a score
+
+**Expected result**  
+User can gain points and make other balls disappear by knocking them into the pockets using the cue ball.
+
+**Actual result**  
+The other balls will typically sink when colliding with the pockets. They can get stuck, occasionally, and the game will bug.
+
+**Status (Pass/Fail)**  
+A bit of both?
+
+**Notes**  
+Physics could be improved. There is no scoring based on what color ball is sunk. Player who gains points switches often.
+
+**Post-conditions**  
+The game ends when all six balls have been "sunk".
