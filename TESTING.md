@@ -1,4 +1,4 @@
-# TESTING.md
+TESTING.md
 CSCI3308-HoloPop  
 University of Colorado:  
 CSCI3308 Group Project  
@@ -11,10 +11,10 @@ Sumeet Batra
 Kristin Robinson  
 
 ## Title of project:  
-HaloPop 
+HoloPop 
 
 ## Vision Statement:  
-Our vision is to supply our users with a fun short gaming experience utilizing each user's immediate enviroment. We will also help companies seeking survey info by creating an incentive system for individuals to participate.
+Our vision is to supply our users with a fun short gaming experience utilizing each user's immediate enviroment. We will also help companies seeking survey info by creating an incentive system for individuals to participate. Companies have the freedom to create surveys to suit their needs and users are encouraged to take them in order to unlock more games.
 
 ## Automated Tests:  
 **HoloPollster**  
@@ -53,7 +53,7 @@ When user hits return in the keyboard, nothing happens. User must click in app t
 
 **Post-conditions**   
 User is validated with database and successfully signed into their account.  
-The account session details are logged in database.  
+The account session details are logged.  
 
 
 ### UAT 2: Verify poll creation  
