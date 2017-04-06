@@ -17,7 +17,9 @@ HaloPop
 Our vision is to supply our users with a fun short gaming experience utilizing each user's immediate enviroment. We will also help companies seeking survey info by creating an incentive system for individuals to participate.
 
 ## Automated Tests:  
-Explanation and screenshot (see above)
+**HoloPollster**  
+For the HoloPollster app we are using Visual Studios Test Explorer to create automated unit tests
+![alt text](HoloPollsterUnitTesting.jpg "HoloPollster Automated Tests")
 
 ## User Acceptance Tests:  
 
