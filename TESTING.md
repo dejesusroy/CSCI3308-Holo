@@ -77,6 +77,7 @@ User has valid user name and password
 11. Click on your name in list.  
 12. Verify that the poll appears.  
 
+
 **Expected result**  
 User enters as many questions as they like, submits quiz and the quiz is then available to take. All the questions the user created appear and the questions have the correct answer options (buttons or text fields).  
 
@@ -125,3 +126,34 @@ Assume results are not being stored. When you go to “My Statistics” nothing 
 
 **Post-conditions**  
 Poll results are successfully stored in database.
+
+
+### UAT 4: Create duplicate polls
+**Description**  
+Test that the user can create polls with identical names and take both successfully
+
+**Pre-conditions**  
+At least two polls with the same names but different questions have been created
+
+**Test steps**  
+1. Select “Take a Poll” from the user home screen.  
+2. Select one of the polls with the same name
+3. Enter answers to poll questions.  
+4. Select “Submit”  
+5. Select the other poll with the same name
+6. Verify the polls display different questions
+
+**Expected result**  
+User can take both polls successfully. The appropriate questions are displayed in the case of a duplicated name
+
+**Actual result**  
+The questions correlated with the second poll are always the questions displayed
+
+**Status (Pass/Fail)**  
+Fail
+
+**Notes**  
+The app is not differentiating between polls. Other unique factors must be used to fetch poll questions 
+
+**Post-conditions**  
+Polls display the correct questions every time, regardless of duplicated names.
