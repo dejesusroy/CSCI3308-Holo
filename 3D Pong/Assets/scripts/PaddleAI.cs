@@ -6,13 +6,13 @@ public class PaddleAI : MonoBehaviour {
     Transform ball;
     public float speed = 10.0f;
 
-	// Use this for initialization
-	void Start () {
-  
-	}
-	
-	// Update is called once per frame
-	void Update () {
+    // Use this for initialization
+    void Start() {
+
+    }
+
+    // Update is called once per frame
+    void Update() {
         ball = GameObject.FindGameObjectWithTag("ball").transform;
         float yBallPos = ball.transform.position.y;
         float step = speed * Time.deltaTime;
@@ -20,6 +20,13 @@ public class PaddleAI : MonoBehaviour {
         v.y = yBallPos;
         v.x = transform.position.x;
 
-        transform.position = Vector3.MoveTowards(transform.position, v, 5*step);
+        transform.position = Vector3.MoveTowards(transform.position, v, 5 * step);
+
+        if (ball.transform.position.y >= 5.5 || ball.transform.position.y <= -3.1)
+        {
+            throw new System.Exception("Paddle is out of bounds");
+        }
     }
+
+
 }
