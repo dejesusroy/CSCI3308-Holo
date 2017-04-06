@@ -128,9 +128,9 @@ Assume results are not being stored. When you go to “My Statistics” nothing 
 Poll results are successfully stored in database.
 
 
-### UAT 4: Create duplicate polls
+### UAT 4: Take polls with duplicate names
 **Description**  
-Test that the user can create polls with identical names and take both successfully
+Test that the user can successfully take polls even when duplicate poll names are used
 
 **Pre-conditions**  
 At least two polls with the same names but different questions have been created
