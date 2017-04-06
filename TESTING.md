@@ -45,7 +45,6 @@ User is navigated to the user’s home screen
 
 **Actual result**  
 User is navigated to a user home screen regardless of entering valid or invalid username and or valid/invalid password  
-
 **Status (Pass/Fail)**  
 Fail 
 
@@ -56,7 +55,6 @@ When user hits return in the keyboard, nothing happens. User must click in app t
 **Post-conditions**   
 User is validated with database and successfully signed into their account.  
 The account session details are logged in database.  
-
 
 ### UAT 2: Verify poll creation  
 **Description**  
@@ -117,10 +115,10 @@ At least one poll has been created
 User can answer all questions and enter submit and the poll results will be collected.  
 
 **Actual result**  
-User is navigated to poll. Questions are displayed and user is able to type answers to questions
+User is navigated to poll. Questions are displayed and user is able to type answers to questions. However, "My Statistics" button does nothing.
 
 **Status (Pass/Fail)**  
-Pass
+Fail
 
 **Notes**  
 Assume results are not being stored. When you go to “My Statistics” nothing happens. 
