@@ -18,7 +18,7 @@ Our vision is to supply our users with a fun short gaming experience utilizing e
 
 ## Automated Tests:  
 **HoloPollster**  
-For the HoloPollster app we are using Visual Studios Test Explorer to create automated unit tests
+For the HoloPollster app we are using Visual Studio Test Explorer to create automated unit tests
 ![alt text](HoloPollsterUnitTesting.jpg "HoloPollster Automated Tests")
 
 **3DPong - Unity**
