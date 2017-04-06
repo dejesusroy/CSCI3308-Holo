@@ -23,6 +23,8 @@ For the HoloPollster app we are using Visual Studios Test Explorer to create aut
 
 ## User Acceptance Tests:  
 
+Note: This app is stored on GitHub here: https://github.com/Tarah-Peltz/Polling-App-Cross-Plat.git
+
 ### UAT 1: Verify login with valid user name and password 
 **Description**  
 Test the HoloPollster welcome/login screen  
@@ -53,7 +55,7 @@ When user hits return in the keyboard, nothing happens. User must click in app t
 
 **Post-conditions**   
 User is validated with database and successfully signed into their account.  
-The account session details are logged.  
+The account session details are logged in database.  
 
 
 ### UAT 2: Verify poll creation  
@@ -83,10 +85,9 @@ User enters as many questions as they like, submits quiz and the quiz is then av
 **Actual result**   
 User can create poll create poll and add at least 10 questions. Poll appears when the user selects “Take a Poll”.  
 Radio buttons do not appear (all questions are open text).  
-Question text does not appear. Generic “Question” followed by a number appears (ex. “Question 4”).  
 
 **Status (Pass/Fail)**   
-Fail  
+Pass  
 
 **Notes**   
 Keyboard does not disappear when user hits return. User must click on screen to submit text. 
@@ -116,10 +117,10 @@ At least one poll has been created
 User can answer all questions and enter submit and the poll results will be collected.  
 
 **Actual result**  
-User is navigated to poll. As in Verify Poll creation test results, poll questions do not appear. User’s data is not stored.
+User is navigated to poll. Questions are displayed and user is able to type answers to questions
 
 **Status (Pass/Fail)**  
-Fail
+Pass
 
 **Notes**  
 Assume results are not being stored. When you go to “My Statistics” nothing happens. 
