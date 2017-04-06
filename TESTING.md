@@ -22,7 +22,10 @@ For the HoloPollster app we are using Visual Studio Test Explorer to create auto
 ![alt text](HoloPollsterUnitTesting.jpg "HoloPollster Automated Tests")
 
 **3DPong - Unity**
-For Unity games testing, we use the **Unity Test Tools**, which can be found in the asset store.
+For Unity games testing, we use the **Unity Test Tools**, which can be found in the asset store, as well as the assertion library for testing c# scripts. 
+
+In this picture, **Unity Test Tools** is being used to assert whether the ball has collided with the right paddle, and is about to leave the point of contact. This test has helped with physics debugging between the ball and paddle's rigid bodies. 
+![alt_text](RightPaddleColliderAssert.PNG "Automated Test for Collision Debugging")
 
 ## User Acceptance Tests:  
 
