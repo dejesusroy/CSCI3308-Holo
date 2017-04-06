@@ -22,7 +22,7 @@ For the HoloPollster app we are using Visual Studios Test Explorer to create aut
 ![alt text](HoloPollsterUnitTesting.jpg "HoloPollster Automated Tests")
 
 **3DPong - Unity**
-
+For Unity games testing, we use the **Unity Test Tools**, which can be found in the asset store.
 
 ## User Acceptance Tests:  
 
