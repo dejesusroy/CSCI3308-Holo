@@ -1,6 +1,7 @@
 # CSCI3308-HoloPop
 University of Colorado:  
 CSCI3308 Group Project
+Cross Platform Application: https://github.com/Tarah-Peltz/Polling-App-Cross-Plat.git
 
 ## Team Members: 
 Name|GitHub ID
