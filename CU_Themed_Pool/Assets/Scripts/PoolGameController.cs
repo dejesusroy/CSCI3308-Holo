@@ -9,6 +9,8 @@ public class PoolGameController : MonoBehaviour {
 	public GameObject scoreBar;
 	public GameObject winnerMessage;
 
+	public Login thisLogin;
+
 	public float maxForce;
 	public float minForce;
 	public Vector3 strikeDirection;

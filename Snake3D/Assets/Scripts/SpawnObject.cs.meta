@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 89d6b11f6d2494623a25da6c8b9627d2
+timeCreated: 1491517711
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - foodPre: {fileID: 100000, guid: 4de33cfabd2a0a64caa7f20596f00adf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
