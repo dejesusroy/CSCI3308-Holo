@@ -22,10 +22,10 @@ public class PaddleAI : MonoBehaviour {
 
         transform.position = Vector3.MoveTowards(transform.position, v, 5 * step);
 
-        if (ball.transform.position.y >= 5.5 || ball.transform.position.y <= -3.1)
+        /*if (ball.transform.position.y >= 5.5 || ball.transform.position.y <= -3.1)
         {
             throw new System.Exception("Paddle is out of bounds");
-        }
+        }*/
     }
 
 
